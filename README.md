@@ -9,9 +9,7 @@ This repository contains my data science minor project on analyzing mental healt
 - Goal:  
   - Understand stress and mental health patterns  
   - Predict stress levels and mental health risk  
-  - Identify high-stress students who may need support
-    
-    
+  - Identify high-stress students who may need support   
 ## 📂 Files used
 
 - `collecteddata.csv` – Original survey dataset  
