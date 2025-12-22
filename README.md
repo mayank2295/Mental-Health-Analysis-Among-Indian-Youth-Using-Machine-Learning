@@ -13,7 +13,6 @@ This repository contains my data science minor project on analyzing mental healt
     
     
 ## 📂 Files used
-
 - `collecteddata.csv` – Original survey dataset  
 - `mental_health_analysis.ipynb` – Main Jupyter Notebook with:
   - Data loading and exploration  
