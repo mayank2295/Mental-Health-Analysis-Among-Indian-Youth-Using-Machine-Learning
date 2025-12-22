@@ -52,7 +52,6 @@ This repository contains my data science minor project on analyzing mental healt
 - pandas, NumPy  
 - matplotlib, seaborn  
 - scikit-learn (Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, Naive Bayes, KNN)
-- 
 
 ## ▶️ How to Run the project
 
