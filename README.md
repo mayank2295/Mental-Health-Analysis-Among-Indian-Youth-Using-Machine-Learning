@@ -21,7 +21,8 @@ This repository contains my data science minor project on analyzing mental healt
   - Outlier detection and removal  
   - Feature engineering  
   - Machine learning modeling (5 insights)  
-  - Result summaries and visualizations  
+  - Result summaries and visualizations
+  - 
 - `report/Mental_Health_Analysis_Report.pdf` – Full project report (30+ pages)
 
 ## 🧠 Main Analyses (Insights)
